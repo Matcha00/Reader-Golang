@@ -2,10 +2,10 @@ package ui
 
 import (
 	"github.com/gin-gonic/gin"
-	"reader/APP/Model"
-	"reader/APP/init"
 	"net/http"
 	"fmt"
+	"reader/Reader-Golang/APP/init"
+	"reader/Reader-Golang/APP/Model"
 )
 
 func ReaderSelectAll(c *gin.Context)  {

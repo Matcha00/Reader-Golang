@@ -1,10 +1,9 @@
 package main
 
 import (
-	"reader/APP/Model"
-
-	"reader/APP/init"
-	"reader/APP/ui"
+	"reader/Reader-Golang/APP/ui"
+	"reader/Reader-Golang/APP/init"
+	"reader/Reader-Golang/APP/Model"
 )
 
 func main() {
